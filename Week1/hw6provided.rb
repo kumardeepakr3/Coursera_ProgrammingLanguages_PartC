@@ -92,6 +92,18 @@ class Piece
 end
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Class responsible for the interaction between the pieces and the game itself
 class Board
 
@@ -263,6 +275,20 @@ class Board
     @current_pos = @game.draw_piece(@current_block, @current_pos)
   end
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 class Tetris
 
