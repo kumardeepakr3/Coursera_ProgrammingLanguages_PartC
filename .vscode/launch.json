@@ -9,7 +9,7 @@
             "type": "Ruby",
             "request": "attach",
             "remoteHost": "127.0.0.1",
-            "remotePort": "3080",
+            "remotePort": "1234",
             "remoteWorkspaceRoot": "${workspaceRoot}"
         }
     ]
